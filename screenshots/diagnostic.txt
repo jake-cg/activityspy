@@ -1,0 +1,27 @@
+04-12 00:51:45.898 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onCreate Fired. Bundle: null
+04-12 00:51:45.928 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onStart Fired
+    onResume Fired
+04-12 00:51:51.298 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onPause Fired
+04-12 00:51:51.308 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onStop Fired
+04-12 00:51:51.308 2765-2765/edu.washington.jcg25.activityspy E/Main Activity: We're going down Captain!
+04-12 00:51:51.388 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onCreate Fired. Bundle: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@a4ed15a8, 2131165190=android.support.v7.widget.Toolbar$SavedState@a50cbcc8, 2131165192=android.view.AbsSavedState$1@a4ed15a8, 2131165198=android.view.AbsSavedState$1@a4ed15a8, 2131165231=android.view.AbsSavedState$1@a4ed15a8}}], android:fragments=android.app.FragmentManagerState@a50c1580}]
+    onStart Fired
+    onResume Fired
+04-12 00:52:13.698 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onPause Fired
+    onStop Fired
+04-12 00:52:13.698 2765-2765/edu.washington.jcg25.activityspy E/Main Activity: We're going down Captain!
+04-12 00:52:13.778 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onCreate Fired. Bundle: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@a4ed15a8, 2131165190=android.support.v7.widget.Toolbar$SavedState@a50d0d60, 2131165192=android.view.AbsSavedState$1@a4ed15a8, 2131165198=android.view.AbsSavedState$1@a4ed15a8, 2131165231=android.view.AbsSavedState$1@a4ed15a8}}], android:fragments=android.app.FragmentManagerState@a506f3c8}]
+04-12 00:52:13.778 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onStart Fired
+    onResume Fired
+04-12 00:52:19.568 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onPause Fired
+04-12 00:52:20.428 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onStop Fired
+04-12 00:52:22.208 2765-2765/edu.washington.jcg25.activityspy I/Main Activity: onRestart Fired
+    onStart Fired
+    onResume Fired
+
+
+**********************
+To achieve this log result: the app was launched in portait mode, rotated, rotated back, the menu/task android button was pressed, and then pressed again to return to the app. 
+
+**********************
+
